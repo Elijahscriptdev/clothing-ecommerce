@@ -2,3 +2,14 @@ body {
     font-family: 'Open Sans Condensed', sans-serif;
     padding: 20px 30px;
 }
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    border-bottom: 1px solid olive;
+    color: olive;
+    font-weight: bold;
+}
