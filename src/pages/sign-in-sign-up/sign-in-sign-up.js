@@ -1,15 +1,15 @@
 import React from 'react'
 import './sign-in-sign-up.styles.scss'
 import SignIn from '../../components/sign-in/sign-in'
+import SignUp from '../../components/sign-up/sign-up'
 
-/**
-* @author
-* @function SignInSignUpPage
-**/
 
-const SignInSignUpPage = (props) => {
+const SignInSignUpPage = () => {
   return(
-    <div className="sign-in-sign-up"><SignIn /></div>
+    <div className="sign-in-sign-up">
+      <SignIn />
+      <SignUp />
+      </div>
    )
 
  }
