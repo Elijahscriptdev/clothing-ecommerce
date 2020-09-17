@@ -8,8 +8,10 @@ a {
     color: #000;
 }
 
-a:hover {
-    border-bottom: 1px solid olive;
-    color: olive;
-    font-weight: bold;
+.option {
+    cursor: pointer;
+}
+
+*{
+    box-sizing: border-box;
 }
