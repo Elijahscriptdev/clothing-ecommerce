@@ -18,7 +18,7 @@ This is an ecommerce restaurant website where people can order for the type of c
 
 ## Deployment to heroku
 
-[Live link]()
+[Live link](https://stupefied-jennings-21ff8f.netlify.app/)
 
 ## Images
 
