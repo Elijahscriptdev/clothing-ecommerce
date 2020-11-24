@@ -8,6 +8,7 @@ This is an ecommerce restaurant website where people can order for the type of c
 - Firebase
 
 ## Technologies
+
 - HTML
 - CSS
 - React
@@ -16,18 +17,21 @@ This is an ecommerce restaurant website where people can order for the type of c
 - Firebase
 
 ## Deployment to heroku
+
 [Live link]()
 
 ## Images
-![](https://res.cloudinary.com/elijjaaahhhh/image/upload/v1600276968/rrr_cepnqa.png)
 
-![](https://res.cloudinary.com/elijjaaahhhh/image/upload/v1600277554/ghg_tnnbjt.png)
+![homepage](https://res.cloudinary.com/elijjaaahhhh/image/upload/v1600276968/rrr_cepnqa.png)
+
+![shop](https://res.cloudinary.com/elijjaaahhhh/image/upload/v1600277554/ghg_tnnbjt.png)
 
 ## Prerequisites
 
 - React
 
-## Functionalities 
+## Functionalities
+
 - View clothings
 - Add clothings to cart
 - Delete items fom cart
@@ -38,17 +42,19 @@ This is an ecommerce restaurant website where people can order for the type of c
 ## Setup
 
 ```sh
-$ git clone https://github.com/Elijahscriptdev/clothing-ecommerce.git
+git clone https://github.com/Elijahscriptdev/clothing-ecommerce.git
 ```
 
 Navigate to the extracted folder
+
 ```sh
-$ cd clothing-ecommerce
+cd clothing-ecommerce
 ```
 
 Install dependencies
+
 ```sh
-$ yarn
+yarn
 ```
 
 Start server with:
@@ -64,7 +70,6 @@ Open `http://localhost:3000/` in your browser.
 👤 **Elijah Obominuru**
 
 [Github](https://github.com/Elijahscriptdev) | [Twitter](https://twitter.com/ElijahObominuru) | [LinkedIn](https://www.linkedin.com/in/elijah-obominuru-0b730b143/)
-
 
 ## 🤝 Contributing
 
